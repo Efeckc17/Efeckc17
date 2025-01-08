@@ -1,10 +1,11 @@
 # 👋 Hi, I'm toxi360!
 
 ## 🚀 About Me:
-- 💻 Passionate developer focused on web and backend development.  
-- 🐧 Linux enthusiast and open-source lover.  
-- 🔒 Privacy advocate—always online with VPN!  
-- ☕ Powered by caffeine and late-night coding sessions.  
+- 💻 Full-stack developer with a focus on web and backend development.  
+- 🌐 Experienced in building scalable and secure applications.  
+- 🐧 Linux enthusiast and open-source advocate.  
+- 🛠 Skilled in automation, API design, and database management.  
+- 📈 Continuously learning and experimenting with new technologies.  
 
 ---
 
@@ -13,6 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 
@@ -25,13 +27,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
 ![Termux](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=android&logoColor=white)  
-
----
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toxi360&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toxi360&layout=compact&theme=radical)  
 
 ---
 
