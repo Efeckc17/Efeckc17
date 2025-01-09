@@ -5,13 +5,15 @@
 </p>
 
 ## 🚀 About Me
-I am a passionate **Full-Stack Web Developer** with expertise in creating dynamic and responsive websites. I thrive on building scalable and secure applications that provide seamless user experiences.
+I am a dedicated **Full-Stack Web Developer** with a passion for building dynamic, scalable, and user-friendly web applications. My expertise lies in creating seamless digital experiences that prioritize functionality and design.
 
-- 💻 **Full-Stack Developer** specializing in web and backend development.
-- 🌐 **Web Developer** skilled in modern web technologies.
-- 🐧 **Linux Enthusiast** and advocate for open-source software.
-- 🛠 **Proficient** in automation, API design, and database management.
-- 📈 **Continuous Learner**, always exploring and experimenting with new technologies.
+While web development is my primary focus, I also enjoy exploring desktop application development when time permits. This allows me to expand my skillset and experiment with new technologies beyond the browser.
+
+- 💻 Proficient in both frontend and backend technologies.
+- 🌐 Committed to writing clean, maintainable, and efficient code.
+- 🐧 Advocate for open-source tools and Linux-based development.
+- 🛠 Always eager to learn new frameworks, libraries, and programming paradigms.
+- 🎯 Dedicated to delivering high-quality projects that meet and exceed expectations.
 
 ---
 
