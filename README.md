@@ -1,5 +1,9 @@
 # 👋 Hi, I'm **toxi360**!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Web Development GIF" width="400"/>
+</p>
+
 ## 🚀 About Me
 I am a passionate **Full-Stack Web Developer** with expertise in creating dynamic and responsive websites. I thrive on building scalable and secure applications that provide seamless user experiences.
 
@@ -53,15 +57,23 @@ I am a passionate **Full-Stack Web Developer** with expertise in creating dynami
 
 ## 📅 This Year's Commits
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Efeckc17/Efeckc17?style=for-the-badge&color=9b59b6&labelColor=000000)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Efeckc17/Efeckc17?style=for-the-badge&color=9b59b6&labelColor=000000&logo=github&logoColor=white)
 
 ---
 
 ## 📫 Contact
 
-- **Email:** [toxi360@workmail.com](mailto:toxi360@workmail.com)
-- **Website:** [toxi360.org](https://toxi360.org)
-- **Instagram:** [@toxi.dev](https://instagram.com/toxi.dev)
+<p align="left">
+  <a href="mailto:toxi360@workmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://toxi360.org">
+    <img src="https://img.shields.io/badge/Website-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://instagram.com/toxi.dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
