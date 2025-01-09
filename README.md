@@ -55,13 +55,13 @@ I am a passionate **Full-Stack Web Developer** with expertise in creating dynami
 
 ## 📈 GitHub Stats
 
-![toxi360's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toxi360&show_icons=true&theme=radical&hide_border=true)
+![toxi360's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Efeckc17&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toxi360&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efeckc17&layout=compact&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=toxi360&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![trophies](https://github-profile-trophy.vercel.app/?username=Efeckc17&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
