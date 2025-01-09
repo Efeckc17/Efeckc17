@@ -55,7 +55,7 @@ I am a passionate **Full-Stack Web Developer** with expertise in creating dynami
 
 ## 📈 GitHub Stats
 
-![toxi360's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Efeckc17&show_icons=true&theme=radical&hide_border=true)
+![Efeckc17's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Efeckc17&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efeckc17&layout=compact&theme=radical&hide_border=true)
 
@@ -77,6 +77,6 @@ I am a passionate **Full-Stack Web Developer** with expertise in creating dynami
 
 ## 📊 GitHub Activity
 
-![toxi360's Activity Graph](https://activity-graph.herokuapp.com/graph?username=toxi360&theme=react-dark&hide_border=true)
+![Efeckc17's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Efeckc17&theme=react-dark&hide_border=true)
 
 ---
