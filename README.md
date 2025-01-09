@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%" />
 </p>
