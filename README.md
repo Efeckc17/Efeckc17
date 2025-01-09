@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **toxi360**!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Web Development GIF" width="400"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFrMGlobG9xZDE3aXliZngwZGExOHJuZXc5c2xndjV0cXRxOHBocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VX7yEoXAFf8as/giphy.gif" alt="Web Development GIF" width="400"/>
 </p>
 
 ## 🚀 About Me
