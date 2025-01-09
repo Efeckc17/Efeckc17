@@ -1,26 +1,28 @@
+<!-- Banner -->
 <p align="center">
   <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%" />
 </p>
 
-
-<h1 align="center" style="color: #fff;">
-  👋 Hi, I'm <span style="color: #6A0DAD;">**toxi360**</span>!
+<!-- Greeting -->
+<h1 align="center" style="color: #ffffff;">
+  👋 Hi, I'm <span style="color: #9b59b6;">**toxi360**</span>!
 </h1>
 
-
+<!-- About Me -->
 ## 🚀 About Me
 <div style="background-color: #2D2D2D; padding: 20px; border-radius: 10px;">
-  <ul>
-    <li>💻 <strong>Full-Stack Developer</strong> specializing in web and backend development.</li>
-    <li>🌐 <strong>Web Developer</strong> skilled in modern web technologies.</li>
-    <li>🐧 <strong>Linux Enthusiast</strong> and advocate for open-source software.</li>
-    <li>🛠 <strong>Proficient</strong> in automation, API design, and database management.</li>
-    <li>📈 <strong>Continuous Learner</strong>, always exploring and experimenting with new technologies.</li>
+  <ul style="color: #ffffff;">
+    <li>💻 **Full-Stack Web Developer** specializing in modern web technologies.</li>
+    <li>🌐 Passionate about building scalable and secure applications.</li>
+    <li>🐧 **Linux Enthusiast** and advocate for open-source software.</li>
+    <li>🛠 Proficient in automation, API design, and database management.</li>
+    <li>📈 **Continuous Learner**, always exploring new technologies.</li>
   </ul>
 </div>
 
 ---
 
+<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
@@ -57,11 +59,11 @@
 
 ---
 
-
+<!-- Contact -->
 ## 📫 Contact
 
 <div style="background-color: #2D2D2D; padding: 20px; border-radius: 10px;">
-  <ul>
+  <ul style="color: #ffffff;">
     <li>📧 **Email:** [toxi360@workmail.com](mailto:toxi360@workmail.com)</li>
     <li>🌐 **Website:** [toxi360.org](https://toxi360.org)</li>
     <li>📸 **Instagram:** [@toxi.dev](https://instagram.com/toxi.dev)</li>
@@ -70,18 +72,29 @@
 
 ---
 
+<!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Efeckc17&show_icons=true&theme=dark&hide_border=true" alt="Efeckc17's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efeckc17&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Efeckc17&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues" alt="Efeckc17's GitHub Stats" />
 </div>
 
+<!-- Custom Yearly Commits Stats -->
+## 📅 This Year's Commits
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Efeckc17&theme=dark&background=000000&stroke=9b59b6&ring=9b59b6&fire=9b59b6&currStreakNum=9b59b6&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Efeckc17&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+</div>
 
 ---
 
-
+<!-- Connect -->
 ## 🔗 Connect with Me
 
 <div align="center">
@@ -92,6 +105,7 @@
 
 ---
 
+<!-- Activity Graph -->
 ## 📊 GitHub Activity
 
 <div align="center">
