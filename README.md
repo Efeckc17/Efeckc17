@@ -59,7 +59,7 @@ While web development is my primary focus, I also enjoy exploring desktop applic
 
 ## 📅 This Year's Commits
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Efeckc17/Efeckc17?style=for-the-badge&color=9b59b6&labelColor=000000&logo=github&logoColor=white)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Efeckc17/Efeckc17?style=for-the-badge&color=9b59b6&labelColor=000000&logo=github&logoColor=dark)
 
 ---
 
@@ -72,16 +72,6 @@ While web development is my primary focus, I also enjoy exploring desktop applic
   <a href="https://toxi360.org">
     <img src="https://img.shields.io/badge/Website-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://instagram.com/toxi.dev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
   <a href="https://instagram.com/toxi.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
