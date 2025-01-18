@@ -55,13 +55,7 @@ While web development is my primary focus, I also enjoy exploring desktop applic
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
 </p>
 
----
 
-## 📅 This Year's Commits
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Efeckc17/Efeckc17?style=for-the-badge&color=9b59b6&labelColor=000000&logo=github&logoColor=dark)
-
----
 
 ## 📫 Contact
 
