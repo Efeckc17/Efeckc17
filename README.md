@@ -1,4 +1,19 @@
-# 👋 Hi, I'm **toxi360**!
+ <div align="center" style="margin-bottom: 25px;">
+    <img 
+         src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+         width="50" 
+         style="margin-bottom: -5px;"
+         alt="Waving Hand"
+    />
+    <h1 style="display: inline-block; font-weight: bold; margin: 0; color: #a020f0; text-shadow: 0 0 5px #a020f0, 0 0 10px #a020f0, 0 0 20px #a020f0;">
+      Hi, I'm toxi360!
+    </h1>
+  </div>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=a020f0&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Linux+Enthusiast;Open+Source+Lover;Always+Learning!" />
+  </p>
+
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFrMGlobG9xZDE3aXliZngwZGExOHJuZXc5c2xndjV0cXRxOHBocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VX7yEoXAFf8as/giphy.gif" alt="Web Development GIF" width="400"/>
