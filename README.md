@@ -22,7 +22,7 @@
   </div>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=a020f0&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Linux+Enthusiast;Open+Source+Lover;Always+Learning!" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=FF0000&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Linux+Enthusiast;Open+Source+Lover;Always+Learning!" />
   </p>
 
   <hr style="border: none; border-bottom: 1px solid #555; margin: 20px 0;" />
