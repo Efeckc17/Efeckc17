@@ -11,6 +11,7 @@
       Hi, I'm toxi360!
     </h1>
   </div>
+
   <p align="center">
     <img
       src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=FF0000&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Linux+Enthusiast;Open+Source+Lover;Always+Learning!"
@@ -229,7 +230,9 @@
   <h2 style="color: #a020f0; text-shadow: 0 0 5px #a020f0, 0 0 10px #a020f0; margin-top: 30px;">
     🌐 My Personal Web Projects
   </h2>
+
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <!-- Project 1: Notetolink -->
     <div
       style="background: linear-gradient(135deg, #ff7e5f, #feb47b); border-radius: 10px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;"
       onmouseover="this.style.transform='scale(1.05)'"
@@ -265,6 +268,7 @@
         🔗 Visit Notetolink
       </a>
     </div>
+    <!-- Project 2: YourTimeBox -->
     <div
       style="background: linear-gradient(135deg, #6a11cb, #2575fc); border-radius: 10px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;"
       onmouseover="this.style.transform='scale(1.05)'"
@@ -300,6 +304,7 @@
         🔗 Visit YourTimeBox
       </a>
     </div>
+    <!-- Project 3: YouTubeGO -->
     <div
       style="background: linear-gradient(135deg, #00c6ff, #0072ff); border-radius: 10px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;"
       onmouseover="this.style.transform='scale(1.05)'"
@@ -350,7 +355,42 @@
         </a>
       </div>
     </div>
-
+    <!-- Project 4: QRLinker (New) -->
+    <div
+      style="background: linear-gradient(135deg, #43cea2, #185a9d); border-radius: 10px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.05)'"
+      onmouseout="this.style.transform='scale(1)'"
+    >
+      <h3 style="color: #fff; margin-bottom: 10px;">QRLinker</h3>
+      <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
+        A secure and stylish QR code generator with advanced customization, file attachments, real-time scan tracking, and short links.
+      </p>
+      <ul style="list-style: none; padding: 0; color: #f0f0f0; font-size: 14px; text-align: left; margin: 10px 0;">
+        <li>✔️ Custom color settings</li>
+        <li>✔️ File & logo attachments</li>
+        <li>✔️ Real-time scan analytics</li>
+        <li>✔️ Short links for easy sharing</li>
+      </ul>
+      <a
+        href="https://qrlinker.vip/"
+        target="_blank"
+        style="
+          display: inline-block;
+          margin-top: 10px;
+          padding: 8px 16px;
+          background-color: #222;
+          color: #fff;
+          border-radius: 5px;
+          text-decoration: none;
+          font-size: 14px;
+          transition: background-color 0.3s, transform 0.3s;
+        "
+        onmouseover="this.style.backgroundColor='#444'; this.style.transform='scale(1.05)'"
+        onmouseout="this.style.backgroundColor='#222'; this.style.transform='scale(1)'"
+      >
+        🔗 Visit QRLinker
+      </a>
+    </div>
   </div>
 
   <hr style="border: none; border-bottom: 1px solid #555; margin: 30px 0;" />
@@ -359,11 +399,7 @@
     <a
       href="mailto:toxi360@workmail.com"
       target="_blank"
-      style="
-        text-decoration: none;
-        margin-right: 10px;
-        display: inline-block;
-      "
+      style="text-decoration: none; margin-right: 10px; display: inline-block;"
     >
       <img
         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
