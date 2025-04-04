@@ -1,56 +1,99 @@
-<div style="background: radial-gradient(circle at top left, #1e1e1e, #0d0d0d); color: #d4d4d4; border-radius: 10px; padding: 40px; font-family: 'Fira Code', monospace; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+<div style="
+  background: radial-gradient(circle at top left, #242626, #0f0f0f);
+  color: #eeeeee;
+  border-radius: 8px;
+  padding: 40px;
+  font-family: 'Fira Code', monospace;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+">
+
+  <!-- Mac Style Window Buttons -->
   <div style="display: flex; align-items: center; margin-bottom: 15px;">
-    <span style="background-color: #ff5f56; width: 12px; height: 12px; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
-    <span style="background-color: #ffbd2e; width: 12px; height: 12px; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
-    <span style="background-color: #27c93f; width: 12px; height: 12px; border-radius: 50%; display: inline-block;"></span>
+    <span style="background-color: #ff5f56; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px;"></span>
+    <span style="background-color: #ffbd2e; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px;"></span>
+    <span style="background-color: #27c93f; width: 12px; height: 12px; border-radius: 50%;"></span>
   </div>
 
+  <!-- Terminal-Like Intro -->
+  <div style="
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #cfcfcf;
+    line-height: 1.6;
+  ">
+    <pre style="margin: 0; font-family: 'Fira Code', monospace; color: #a0f7c5;">
+      $ whoami
+      <span style="color: #fff;">toxi360</span>
+      $ echo "Backend-Focused Full-Stack Dev"
+      <span style="color: #fff;">Backend-Focused Full-Stack Dev</span>
+    </pre>
+  </div>
+
+  <!-- Header / Greeting -->
   <div align="center" style="margin-bottom: 20px;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="margin-bottom: -5px;" alt="Waving Hand" />
-    <h1 style="display: inline-block; font-weight: bold; margin: 0; color: #a020f0; text-shadow: 0 0 5px #a020f0, 0 0 10px #a020f0, 0 0 20px #a020f0;">
-      Hi, I'm toxi360!
+    <h1 style="
+      display: inline-block;
+      font-weight: bold;
+      margin: 0;
+      color: #76f9c7;
+      text-shadow: 0 0 4px #76f9c7, 0 0 8px #76f9c7;
+    ">
+      Hi, I'm toxi360
     </h1>
   </div>
 
-  <p align="center">
+  <!-- Typing SVG -->
+  <p align="center" style="margin-top: -10px;">
     <img
-      src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=FF0000&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Linux+Enthusiast;Open+Source+Lover;Always+Learning!"
+      src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=53F7D4&center=true&vCenter=true&lines=Backend-Focused+Dev;Linux+Enthusiast;Always+Learning!"
       alt="Typing SVG"
     />
   </p>
 
-  <hr style="border: none; border-bottom: 1px solid #555; margin: 20px 0;" />
+  <hr style="border: none; border-bottom: 1px solid #444; margin: 25px 0;" />
 
-  <h2 style="color: #a020f0; text-shadow: 0 0 5px #a020f0, 0 0 10px #a020f0;">
+  <!-- Tech Stack Section -->
+  <h2 style="
+    color: #76f9c7;
+    text-shadow: 0 0 4px #76f9c7;
+  ">
     🛠️ Tech Stack
   </h2>
 
-  <h3 style="margin: 10px 0; color: #a020f0; text-shadow: 0 0 3px #a020f0;">
+  <!-- Languages -->
+  <h3 style="
+    margin: 10px 0;
+    color: #76f9c7;
+    text-shadow: 0 0 2px #76f9c7;
+  ">
     Languages
   </h3>
   <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
     <img
       src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="Python"
-      width="120"
+      width="110"
       height="40"
     />
     <img
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      alt="HTML5"
-      width="120"
+      src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+      alt="C++"
+      width="100"
       height="40"
     />
     <img
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-      alt="CSS3"
-      width="120"
+      src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+      alt="HTML"
+      width="100"
       height="40"
     />
     <img
-      src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="TypeScript"
-      width="120"
+      src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+      alt="CSS"
+      width="90"
       height="40"
     />
     <img
@@ -60,56 +103,25 @@
       height="40"
     />
     <img
-      src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"
-      alt="C++"
+      src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="TypeScript"
       width="120"
       height="40"
     />
   </div>
 
-  <h3 style="margin: 20px 0 10px 0; color: #a020f0; text-shadow: 0 0 3px #a020f0;">
+  <!-- Frameworks -->
+  <h3 style="
+    margin: 20px 0 10px 0;
+    color: #76f9c7;
+    text-shadow: 0 0 2px #76f9c7;
+  ">
     Frameworks
   </h3>
   <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
     <img
-      src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"
-      alt="React.js"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-      alt="Django"
-      width="120"
-      height="40"
-    />
-    <img
       src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
       alt="Express.js"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
-      alt="Next.js"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
-      alt="Flask"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
-      alt="Laravel"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"
-      alt="Spring Boot"
       width="120"
       height="40"
     />
@@ -120,51 +132,45 @@
       height="40"
     />
     <img
-      src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      alt="Tailwind CSS"
-      width="120"
+      src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+      alt="Flask"
+      width="100"
       height="40"
     />
     <img
-      src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
-      alt="jQuery"
-      width="120"
+      src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+      alt="Django"
+      width="110"
       height="40"
     />
     <img
-      src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"
-      alt="Vue.js"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
-      alt="Angular"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"
-      alt="Svelte"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"
-      alt="Symfony"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"
-      alt="Electron"
-      width="120"
+      src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
+      alt="Next.js"
+      width="110"
       height="40"
     />
     <img
       src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
       alt="Node.js"
-      width="120"
+      width="110"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+      alt="React.js"
+      width="110"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"
+      alt="Vue.js"
+      width="100"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      alt="Tailwind CSS"
+      width="140"
       height="40"
     />
     <img
@@ -173,34 +179,27 @@
       width="120"
       height="40"
     />
-    <img
-      src="https://img.shields.io/badge/Meteor-7DC3FF?style=for-the-badge&logo=meteor&logoColor=white"
-      alt="Meteor"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white"
-      alt="Ember.js"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Backbone.js-0071B5?style=for-the-badge&logo=backbone.js&logoColor=white"
-      alt="Backbone.js"
-      width="120"
-      height="40"
-    />
-    <img
-      src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"
-      alt="Ionic"
-      width="120"
-      height="40"
-    />
+  </div>
+
+  <!-- Desktop Frameworks -->
+  <h3 style="
+    margin: 20px 0 10px 0;
+    color: #76f9c7;
+    text-shadow: 0 0 2px #76f9c7;
+  ">
+    Desktop Frameworks
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
     <img
       src="https://img.shields.io/badge/PyQt5-5E5E5E?style=for-the-badge&logo=qt&logoColor=white"
       alt="PyQt5"
-      width="120"
+      width="110"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/PyQt6-5E5E5E?style=for-the-badge&logo=qt&logoColor=white"
+      alt="PyQt6"
+      width="110"
       height="40"
     />
     <img
@@ -211,36 +210,87 @@
     />
   </div>
 
-  <hr style="border: none; border-bottom: 1px solid #555; margin: 20px 0;" />
+  <!-- Databases -->
+  <h3 style="
+    margin: 20px 0 10px 0;
+    color: #76f9c7;
+    text-shadow: 0 0 2px #76f9c7;
+  ">
+    Databases
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <img
+      src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="SQLite"
+      width="90"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL"
+      width="100"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="MongoDB"
+      width="110"
+      height="40"
+    />
+  </div>
 
-  <h2 style="color: #a020f0; text-shadow: 0 0 5px #a020f0, 0 0 10px #a020f0;">
+  <hr style="border: none; border-bottom: 1px solid #444; margin: 25px 0;" />
+
+  <!-- About Me -->
+  <h2 style="
+    color: #76f9c7;
+    text-shadow: 0 0 4px #76f9c7;
+  ">
     🚀 About Me
   </h2>
-  <p style="line-height: 1.6;">
-    I am a passionate Full-Stack Web Developer with over 5 years of experience in building dynamic, scalable, and user-friendly web applications. My journey in web development has equipped me with a diverse skill set, enabling me to tackle both frontend and backend challenges with ease.
+  <p style="line-height: 1.6; font-size: 14px;">
+    I've been <strong>passionate about coding since I was 13years old</strong>, 
+    and for the last <strong>2 years, I've been building and maintaining my own homelab</strong> setup. 
+    I'm a <strong>backend-focused developer</strong>  who enjoys crafting robust APIs, 
+    scalable microservices, and secure server-side logic. 
     <br><br>
-    My expertise lies in creating seamless digital experiences that prioritize functionality, performance, and design. I thrive in collaborative environments and enjoy working on projects that make a meaningful impact.
+    My experience spans <strong>5+ years in web development</strong>, working with both frontend and backend tools. 
+    I thrive in <em>challenging</em> environments—whether it's optimizing complex queries, configuring Linux servers, 
+    or exploring new architectural designs. I'm also a fan of open-source technologies and love contributing when possible.
     <br><br>
-    Beyond web development, I have a keen interest in exploring desktop application development, which allows me to broaden my horizons and experiment with new technologies. I am an advocate for open-source tools and believe in contributing to the community whenever possible.
+    Currently, I'm exploring <strong>desktop application development</strong> with PyQt/PySide, 
+    while keeping a keen eye on cloud deployments and DevOps practices. 
+    If you're looking for a developer who combines <strong>technical depth with curiosity</strong>, I'm your guy.
     <br><br>
-    I am always eager to learn and implement new frameworks, libraries, and programming paradigms to stay updated with the ever-evolving tech landscape. Whether it's optimizing code for better performance or designing intuitive user interfaces, I strive for excellence in every project I undertake.
+    Let's build something awesome together!
   </p>
 
-  <hr style="border: none; border-bottom: 1px solid #555; margin: 30px 0;" />
-  <h2 style="color: #a020f0; text-shadow: 0 0 5px #a020f0, 0 0 10px #a020f0; margin-top: 30px;">
+  <hr style="border: none; border-bottom: 1px solid #444; margin: 30px 0;" />
+
+  <!-- My Personal Web Projects -->
+  <h2 style="
+    color: #76f9c7;
+    text-shadow: 0 0 4px #76f9c7;
+    margin-top: 30px;
+  ">
     🌐 My Personal Web Projects
   </h2>
-
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <!-- Project 1: Notetolink -->
     <div
-      style="background: linear-gradient(135deg, #ff7e5f, #feb47b); border-radius: 10px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;"
+      style="background: linear-gradient(135deg, #ff7e5f, #feb47b);
+             border-radius: 8px;
+             padding: 20px;
+             width: 300px;
+             text-align: center;
+             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+             transition: transform 0.3s ease;"
       onmouseover="this.style.transform='scale(1.05)'"
       onmouseout="this.style.transform='scale(1)'"
     >
       <h3 style="color: #fff; margin-bottom: 10px;">Notetolink</h3>
       <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
-        Notetolink is a secure and user-friendly platform that allows you to create, upload images, and share your notes effortlessly.
+        A secure and user-friendly platform to create, upload images, and share notes effortlessly.
       </p>
       <ul style="list-style: none; padding: 0; color: #f0f0f0; font-size: 14px; text-align: left; margin: 10px 0;">
         <li>✔️ Secure note storage</li>
@@ -270,19 +320,26 @@
     </div>
     <!-- Project 2: YourTimeBox -->
     <div
-      style="background: linear-gradient(135deg, #6a11cb, #2575fc); border-radius: 10px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;"
+      style="background: linear-gradient(135deg, #6a11cb, #2575fc);
+             border-radius: 8px;
+             padding: 20px;
+             width: 300px;
+             text-align: center;
+             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+             transition: transform 0.3s ease;"
       onmouseover="this.style.transform='scale(1.05)'"
       onmouseout="this.style.transform='scale(1)'"
     >
       <h3 style="color: #fff; margin-bottom: 10px;">YourTimeBox</h3>
       <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
-        Send emails to your future self with precision timing. Schedule messages to be delivered at the exact moment you choose, creating a personal time capsule.
+        Send emails to your future self with precision timing. 
+        Schedule messages at the exact moment you choose—like a personal time capsule.
       </p>
       <ul style="list-style: none; padding: 0; color: #f0f0f0; font-size: 14px; text-align: left; margin: 10px 0;">
         <li>✔️ Precise scheduling</li>
         <li>✔️ User-friendly interface</li>
-        <li>✔️ Secure &amp; reliable delivery</li>
-        <li>✔️ Personal time capsule creation</li>
+        <li>✔️ Secure & reliable delivery</li>
+        <li>✔️ Personal time capsule</li>
       </ul>
       <a
         href="https://yourtimebox.org/"
@@ -306,13 +363,20 @@
     </div>
     <!-- Project 3: YouTubeGO -->
     <div
-      style="background: linear-gradient(135deg, #00c6ff, #0072ff); border-radius: 10px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;"
+      style="background: linear-gradient(135deg, #00c6ff, #0072ff);
+             border-radius: 8px;
+             padding: 20px;
+             width: 300px;
+             text-align: center;
+             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+             transition: transform 0.3s ease;"
       onmouseover="this.style.transform='scale(1.05)'"
       onmouseout="this.style.transform='scale(1)'"
     >
       <h3 style="color: #fff; margin-bottom: 10px;">YouTubeGO</h3>
       <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
-        YouTubeGO is an innovative tool for YouTube. You can download the EXE version directly from the site for easy access. For more details, check the GitHub repository.
+        A lightweight tool for downloading and managing YouTube content. 
+        Grab the EXE version or explore more on GitHub.
       </p>
       <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
         <a
@@ -355,15 +419,21 @@
         </a>
       </div>
     </div>
-    <!-- Project 4: QRLinker (New) -->
+    <!-- Project 4: QRLinker -->
     <div
-      style="background: linear-gradient(135deg, #43cea2, #185a9d); border-radius: 10px; padding: 20px; width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;"
+      style="background: linear-gradient(135deg, #43cea2, #185a9d);
+             border-radius: 8px;
+             padding: 20px;
+             width: 300px;
+             text-align: center;
+             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+             transition: transform 0.3s ease;"
       onmouseover="this.style.transform='scale(1.05)'"
       onmouseout="this.style.transform='scale(1)'"
     >
       <h3 style="color: #fff; margin-bottom: 10px;">QRLinker</h3>
       <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
-        A secure and stylish QR code generator with advanced customization, file attachments, real-time scan tracking, and short links.
+        A secure & stylish QR code generator with advanced customization, file attachments, real-time analytics, and short links.
       </p>
       <ul style="list-style: none; padding: 0; color: #f0f0f0; font-size: 14px; text-align: left; margin: 10px 0;">
         <li>✔️ Custom color settings</li>
@@ -393,8 +463,9 @@
     </div>
   </div>
 
-  <hr style="border: none; border-bottom: 1px solid #555; margin: 30px 0;" />
+  <hr style="border: none; border-bottom: 1px solid #444; margin: 30px 0;" />
 
+  <!-- Contact Links -->
   <div style="text-align: center; margin-top: 40px;">
     <a
       href="mailto:toxi360@workmail.com"
