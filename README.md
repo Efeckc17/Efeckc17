@@ -1,3 +1,5 @@
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://buymeacoffee.com/toxi360)
+
 <div style="
   background: radial-gradient(circle at top left, #242626, #0f0f0f);
   color: #eeeeee;
