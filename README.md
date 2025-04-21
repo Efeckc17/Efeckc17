@@ -1,13 +1,4 @@
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://buymeacoffee.com/toxi360)
 
-<div style="
-  background: radial-gradient(circle at top left, #242626, #0f0f0f);
-  color: #eeeeee;
-  border-radius: 8px;
-  padding: 40px;
-  font-family: 'Fira Code', monospace;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
-">
 
   <!-- Mac Style Window Buttons -->
   <div style="display: flex; align-items: center; margin-bottom: 15px;">
@@ -269,6 +260,15 @@
 
   <hr style="border: none; border-bottom: 1px solid #444; margin: 30px 0;" />
 
+  <!-- GitHub Stats and Trophies -->
+  <div align="center" style="margin-top: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efeckc17&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=76F9C7&text_color=FFFFFF" alt="Top Languages" style="margin-bottom: 20px;" />
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Efeckc17&theme=onestar&margin-w=15&row=2&column=3&no-bg=true&no-frame=true&title=Stars,Followers,Commits,Experience" alt="GitHub Trophies" />
+  </div>
+
+  <hr style="border: none; border-bottom: 1px solid #444; margin: 30px 0;" />
+
   <!-- My Personal Web Projects -->
   <h2 style="
     color: #76f9c7;
@@ -490,6 +490,18 @@
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         alt="Instagram"
         width="110"
+        height="35"
+      />
+    </a>
+    <a
+      href="https://buymeacoffee.com/toxi360"
+      target="_blank"
+      style="text-decoration: none; display: inline-block; margin-left: 10px;"
+    >
+      <img
+        src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+        alt="Buy Me a Coffee"
+        width="150"
         height="35"
       />
     </a>
