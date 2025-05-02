@@ -295,10 +295,10 @@
         A secure and user-friendly platform to create, upload images, and share notes effortlessly.
       </p>
       <ul style="list-style: none; padding: 0; color: #f0f0f0; font-size: 14px; text-align: left; margin: 10px 0;">
-        <li>✔️ Secure note storage</li>
-        <li>✔️ Image uploading</li>
-        <li>✔️ Effortless sharing</li>
-        <li>✔️ Clean & user-friendly interface</li>
+        <li>✔️Secure note storage(AES-256)</li>
+        <li>✔️Image uploading</li>
+        <li>✔️Effortless sharing</li>
+        <li>✔️Clean & user-friendly interface</li>
       </ul>
       <a
         href="https://notetolink.win/"
