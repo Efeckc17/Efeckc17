@@ -217,7 +217,7 @@
     onmouseover="this.style.transform='scale(1.05)'"
     onmouseout="this.style.transform='scale(1)'"
   >
-    <h3 style="color: #fff; margin-bottom: 10px;">Notetolink</h3>
+    <h3 style="color: #fff; margin-bottom: 10px;">Notetolink (paused)</h3>
     <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
       A secure and user-friendly platform to create, upload images, and share notes effortlessly.
     </p>
@@ -259,7 +259,7 @@
     onmouseover="this.style.transform='scale(1.05)'"
     onmouseout="this.style.transform='scale(1)'"
   >
-    <h3 style="color: #fff; margin-bottom: 10px;">YourTimeBox</h3>
+    <h3 style="color: #fff; margin-bottom: 10px;">YourTimeBox (paused)</h3>
     <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
       Send emails to your future self with precision timing. 
       Schedule messages at the exact moment you choose—like a personal time capsule.
@@ -360,7 +360,7 @@
     onmouseover="this.style.transform='scale(1.05)'"
     onmouseout="this.style.transform='scale(1)'"
   >
-    <h3 style="color: #fff; margin-bottom: 10px;">QRLinker</h3>
+    <h3 style="color: #fff; margin-bottom: 10px;">QRLinker (paused)</h3>
     <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
       A secure & stylish QR code generator with advanced customization, file attachments, real-time analytics, and short links.
     </p>
