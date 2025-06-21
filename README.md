@@ -217,7 +217,7 @@
     onmouseover="this.style.transform='scale(1.05)'"
     onmouseout="this.style.transform='scale(1)'"
   >
-    <h3 style="color: #fff; margin-bottom: 10px;">Notetolink (paused)</h3>
+    <h3 style="color: #fff; margin-bottom: 10px;">Notetolink</h3>
     <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
       A secure and user-friendly platform to create, upload images, and share notes effortlessly.
     </p>
@@ -228,7 +228,7 @@
       <li>✔️Clean & user-friendly interface</li>
     </ul>
     <a
-      href="https://notetolink.win/"
+      href="https://noteto.link"
       target="_blank"
       style="
         display: inline-block;
