@@ -147,7 +147,7 @@
 - 🤝 Strong believer in collaborative development
 - 🔄 Continuous learning and improvement
 - ✨ Building elegant solutions to complex problems
-- 🏠 Self-hosting all services (except YouTubeGO) in personal homelab
+- 🏠 Self-hosting all services in personal homelab
 - 🔐 Strict privacy policy: Only collecting essential Cloudflare logs, no additional telemetry or data collection
 - 🛡️ Secure infrastructure using Cloudflare Tunnels for all self-hosted services
 
@@ -176,33 +176,7 @@
   🌐 My Personal Web Projects
 </h2>
 
-<!-- Weekly Visitors Stats -->
-<div style="margin-bottom: 30px; text-align: center;">
-  <h3 style="color: #7aa2f7; margin: 20px 0;">📊 Weekly Visitors Stats</h3>
-  <div style="
-    background: linear-gradient(135deg, #7aa2f7, #9ece6a);
-    padding: 3px;
-    border-radius: 20px;
-    margin: 0 auto;
-    max-width: 90%;
-  ">
-    <div style="
-      background: #1a1b26;
-      border-radius: 18px;
-      padding: 10px;
-    ">
-      <img 
-        src="cloudflare.png" 
-        alt="Weekly Domain Statistics" 
-        style="
-          max-width: 100%;
-          border-radius: 15px;
-          box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-        "
-      />
-    </div>
-  </div>
-</div>
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- Project 1: Notetolink -->
