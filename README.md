@@ -247,49 +247,6 @@
       🔗 Visit Notetolink
     </a>
   </div>
-  <!-- Project 2: YourTimeBox -->
-  <div
-    style="background: linear-gradient(135deg, #6a11cb, #2575fc);
-           border-radius: 8px;
-           padding: 20px;
-           width: 300px;
-           text-align: center;
-           box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-           transition: transform 0.3s ease;"
-    onmouseover="this.style.transform='scale(1.05)'"
-    onmouseout="this.style.transform='scale(1)'"
-  >
-    <h3 style="color: #fff; margin-bottom: 10px;">YourTimeBox (paused)</h3>
-    <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
-      Send emails to your future self with precision timing. 
-      Schedule messages at the exact moment you choose—like a personal time capsule.
-    </p>
-    <ul style="list-style: none; padding: 0; color: #f0f0f0; font-size: 14px; text-align: left; margin: 10px 0;">
-      <li>✔️ Precise scheduling</li>
-      <li>✔️ User-friendly interface</li>
-      <li>✔️ Secure & reliable delivery</li>
-      <li>✔️ Personal time capsule</li>
-    </ul>
-    <a
-      href="https://yourtimebox.org/"
-      target="_blank"
-      style="
-        display: inline-block;
-        margin-top: 10px;
-        padding: 8px 16px;
-        background-color: #ff69b4;
-        color: #fff;
-        border-radius: 5px;
-        text-decoration: none;
-        font-size: 14px;
-        transition: background-color 0.3s, transform 0.3s;
-      "
-      onmouseover="this.style.backgroundColor='#ff87d6'; this.style.transform='scale(1.05)'"
-      onmouseout="this.style.backgroundColor='#ff69b4'; this.style.transform='scale(1)'"
-    >
-      🔗 Visit YourTimeBox
-    </a>
-  </div>
   <!-- Project 3: YouTubeGO -->
   <div
     style="background: linear-gradient(135deg, #00c6ff, #0072ff);
@@ -348,9 +305,9 @@
       </a>
     </div>
   </div>
-  <!-- Project 4: QRLinker -->
+  <!-- Project: PublishAPI -->
   <div
-    style="background: linear-gradient(135deg, #43cea2, #185a9d);
+    style="background: linear-gradient(135deg, #4CAF50, #2196F3);
            border-radius: 8px;
            padding: 20px;
            width: 300px;
@@ -360,34 +317,97 @@
     onmouseover="this.style.transform='scale(1.05)'"
     onmouseout="this.style.transform='scale(1)'"
   >
-    <h3 style="color: #fff; margin-bottom: 10px;">QRLinker (paused)</h3>
+    <h3 style="color: #fff; margin-bottom: 10px;">PublishAPI</h3>
     <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
-      A secure & stylish QR code generator with advanced customization, file attachments, real-time analytics, and short links.
+      Powerful Sentiment Analysis API that provides instant insights into the emotional tone of any text.
     </p>
     <ul style="list-style: none; padding: 0; color: #f0f0f0; font-size: 14px; text-align: left; margin: 10px 0;">
-      <li>✔️ Custom color settings</li>
-      <li>✔️ File & logo attachments</li>
-      <li>✔️ Real-time scan analytics</li>
-      <li>✔️ Short links for easy sharing</li>
+      <li>✔️ Fast & Reliable Analysis</li>
+      <li>✔️ Secure & Private Data Handling</li>
+      <li>✔️ Easy REST API Integration</li>
+      <li>✔️ Comprehensive Documentation</li>
+    </ul>
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+      <a
+        href="https://publishapi.org/docs"
+        target="_blank"
+        style="
+          display: inline-block;
+          margin-top: 10px;
+          padding: 8px 16px;
+          background-color: #2196F3;
+          color: #fff;
+          border-radius: 5px;
+          text-decoration: none;
+          font-size: 14px;
+          transition: background-color 0.3s, transform 0.3s;
+        "
+        onmouseover="this.style.backgroundColor='#1976D2'; this.style.transform='scale(1.05)'"
+        onmouseout="this.style.backgroundColor='#2196F3'; this.style.transform='scale(1)'"
+      >
+        📚 Documentation
+      </a>
+      <a
+        href="https://publishapi.org/"
+        target="_blank"
+        style="
+          display: inline-block;
+          margin-top: 10px;
+          padding: 8px 16px;
+          background-color: #4CAF50;
+          color: #fff;
+          border-radius: 5px;
+          text-decoration: none;
+          font-size: 14px;
+          transition: background-color 0.3s, transform 0.3s;
+        "
+        onmouseover="this.style.backgroundColor='#388E3C'; this.style.transform='scale(1.05)'"
+        onmouseout="this.style.backgroundColor='#4CAF50'; this.style.transform='scale(1)'"
+      >
+        🔗 Visit Website
+      </a>
+    </div>
+  </div>
+  <!-- Project: PulseTimer -->
+  <div
+    style="background: linear-gradient(135deg, #9C27B0, #673AB7);
+           border-radius: 8px;
+           padding: 20px;
+           width: 300px;
+           text-align: center;
+           box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+           transition: transform 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.05)'"
+    onmouseout="this.style.transform='scale(1)'"
+  >
+    <h3 style="color: #fff; margin-bottom: 10px;">PulseTimer</h3>
+    <p style="color: #f0f0f0; font-size: 14px; line-height: 1.5;">
+      A modern, feature-rich work timer application designed to boost productivity through structured work and break sessions.
+    </p>
+    <ul style="list-style: none; padding: 0; color: #f0f0f0; font-size: 14px; text-align: left; margin: 10px 0;">
+      <li>✔️ Customizable Work Sessions</li>
+      <li>✔️ Smart Break Management</li>
+      <li>✔️ Desktop Notifications</li>
+      <li>✔️ Sound Alerts</li>
     </ul>
     <a
-      href="https://qrlinker.vip/"
+      href="https://timer.toxi360.org/"
       target="_blank"
       style="
         display: inline-block;
         margin-top: 10px;
         padding: 8px 16px;
-        background-color: #222;
+        background-color: #673AB7;
         color: #fff;
         border-radius: 5px;
         text-decoration: none;
         font-size: 14px;
         transition: background-color 0.3s, transform 0.3s;
       "
-      onmouseover="this.style.backgroundColor='#444'; this.style.transform='scale(1.05)'"
-      onmouseout="this.style.backgroundColor='#222'; this.style.transform='scale(1)'"
+      onmouseover="this.style.backgroundColor='#7E57C2'; this.style.transform='scale(1.05)'"
+      onmouseout="this.style.backgroundColor='#673AB7'; this.style.transform='scale(1)'"
     >
-      🔗 Visit QRLinker
+      ⏲️ Try PulseTimer
     </a>
   </div>
 </div>
